@@ -1,6 +1,6 @@
 ### Hi there 👋 It's me Chala.
 - <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg"></img> MTech in Computer Science and Engineering from  <a href="www.siu.edu.in">Symbiosis International University </a>, India.
-- I am interested in algorithm, full stack development, and Criminology.
+-  problem-solving skills and eagerness to learn new things are valuable qualities of mine.
 - 🌱 I’m still learning and improving
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/chala-simon/">Chala Simon</a> 
 
