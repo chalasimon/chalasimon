@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Arba Minch Bus Station Ticketing System](https://github.com/BayraDigiXHub/bus-ticketing-system)
 
-- 🌱 I’m currently learning **Framework development**
-
 - 👯 I’m looking to collaborate on **web app**
 
 - 🤝 I’m looking for help with **React and Laravel**
