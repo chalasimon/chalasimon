@@ -11,10 +11,6 @@
 
 - 🤝 I’m looking for help with **React and Laravel**
 
-- 👨‍💻 All of my projects are available at [-](-)
-
-- 💬 Ask me about **Web design and development**
-
 - 📫 How to reach me **chally.r@hotmail.com, https://www.linkedin.com/in/chala-simon/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chala-simon/, https://bit.ly/scholar-chalasimon](https://www.linkedin.com/in/chala-simon/, https://bit.ly/scholar-chalasimon)
