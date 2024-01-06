@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **web app**
 
-- 🤝 I’m looking for help with **React and Laravel**
-
 - 📫 How to reach me **chally.r@hotmail.com, https://www.linkedin.com/in/chala-simon/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chala-simon/, https://bit.ly/scholar-chalasimon](https://www.linkedin.com/in/chala-simon/, https://bit.ly/scholar-chalasimon)
