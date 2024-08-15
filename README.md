@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chalasimon&label=Profile%20views&color=0e75b6&style=flat" alt="chalasimon" /> </p>
 
-- 🔭 I’m currently working on [AMU RHIMS](https://github.com/chalasimon/AMU_RHIMS)
-
 - 👯 I’m looking to collaborate on **web app**
 
 - 📫 How to reach me **chally.r@hotmail.com, https://www.linkedin.com/in/chala-simon/**
